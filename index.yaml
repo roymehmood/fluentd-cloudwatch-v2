@@ -4,7 +4,7 @@ entries:
   - apiVersion: v1
     appVersion: v1.16-debian-cloudwatch-1
     created: "2023-08-15T15:38:39.9270109+05:00"
-    deprecated: true
+    deprecated: false
     description: Custom fluentd-cloudwatch
     digest: 81635382b95cf8a0e080aa1cc46be860ed9a9d418ede3ab034f9bef155135e82
     home: https://www.fluentd.org/
