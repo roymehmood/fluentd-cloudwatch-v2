@@ -3,7 +3,7 @@ entries:
   fluentd-cloudwatch:
   - apiVersion: v1
     appVersion: v1.17.1-debian-cloudwatch-1.1
-    created: "2024-09-25T10:01:52.996111694+05:00"
+    created: "2024-09-25T10:03:45.774216932+05:00"
     deprecated: true
     description: Custom fluentd-cloudwatch
     digest: 11a43ba82b925e2161d7da519e41abc193a233e77286491fe55bc555ff47515f
@@ -18,11 +18,11 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/fluent/fluentd-kubernetes-daemonset
     urls:
-    - fluentd-cloudwatch-0.13.4.tgz
+    - https://roymehmood.github.io/fluentd-cloudwatch-v2/fluentd-cloudwatch-0.13.4.tgz
     version: 0.13.4
   - apiVersion: v1
     appVersion: v1.16-debian-cloudwatch-1
-    created: "2024-09-25T10:01:52.995212919+05:00"
+    created: "2024-09-25T10:03:45.77394381+05:00"
     deprecated: true
     description: Custom fluentd-cloudwatch
     digest: 81635382b95cf8a0e080aa1cc46be860ed9a9d418ede3ab034f9bef155135e82
@@ -37,6 +37,6 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/fluent/fluentd-kubernetes-daemonset
     urls:
-    - fluentd-cloudwatch-0.13.3.tgz
+    - https://roymehmood.github.io/fluentd-cloudwatch-v2/fluentd-cloudwatch-0.13.3.tgz
     version: 0.13.3
-generated: "2024-09-25T10:01:52.994843795+05:00"
+generated: "2024-09-25T10:03:45.773582361+05:00"
